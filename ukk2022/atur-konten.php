@@ -1,4 +1,4 @@
 <?php
-if ($_GET['menu'] == 'registrasi') {
-    include("konten/registrasi.php");
+if ($_GET['menu'] == 'home') {
+    include("konten/home.php");
 }
